@@ -3,4 +3,4 @@
 Yumenakimononi risounasi,
 Risounakimononi keikakunasi,
 Keikakunakimononi sikounasi,
-yuenini, yumenakimononi,seikounanashi.
+yueni, yumenakimononi,seikounanashi.
